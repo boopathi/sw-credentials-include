@@ -1,6 +1,7 @@
+<style>button { display: block; margin: 15px; font-size: 20px }</style>
 <button id="no-creds">No Creds</button>
 <button id="creds">Include Creds</button>
+<button id="clear-cookie-no-creds">Clear Cookie with No creds</button>
+<button id="clear-cookie-creds">Clear Cookie with Creds</button>
+<div>Refresh to add cookie again</div>
 <script src="main.js"></script>
-<script>
-navigator.serviceWorker.register('/sw.js').then(reg => console.log('sw registered'));
-</script>
