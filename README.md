@@ -1,5 +1,7 @@
 # sw-credentials-include
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/boopathi/sw-credentials-include.svg)](https://greenkeeper.io/)
+
 + `npm install`
 + `node server`
 + `localhost:3000` - sw registered
